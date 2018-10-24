@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="55px" viewBox="0 0 64 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>basic_headset</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basic_headset" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" stroke-width="2">
+            <path d="M10,42 C4.477,42 0,37.523 0,32 C0,26.477 4.477,22 10,22 L12,22 L12,42 L10,42 Z" id="Shape"></path>
+            <path d="M52,22 C57.523,22 62,26.477 62,32 C62,37.523 57.523,42 52,42 L50,42 L50,22 L52,22 Z" id="Shape"></path>
+            <path d="M12,25 L12,16 C12,16 12,0 31,0 C50,0 50,16 50,16 L50,22" id="Shape"></path>
+            <polyline id="Shape" points="50 42 50 47 35 53 27 53 27 49 35 49 35 52"></polyline>
+        </g>
+    </g>
+</svg>

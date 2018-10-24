@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="64px" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ecommerce_cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ecommerce_cart" transform="translate(0.000000, 1.000000)" stroke="#0799DB" stroke-width="2">
+            <circle id="Oval" cx="20" cy="56" r="6"></circle>
+            <circle id="Oval" cx="44" cy="56" r="6"></circle>
+            <path d="M26,56 L38,56" id="Shape"></path>
+            <polyline id="Shape" points="14 56 10 1 0 1"></polyline>
+            <polyline id="Shape" points="13 42 56 39 63 9 11 9"></polyline>
+            <polyline id="Shape" points="20 9 22 3 32 3 34 9"></polyline>
+            <polyline id="Shape" points="32 3 37 0 53 0 56 9"></polyline>
+        </g>
+    </g>
+</svg>
